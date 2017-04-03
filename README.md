@@ -7,36 +7,10 @@ Submitted by: Hammed Opejin
 
 Time spent: 6 hours spent in total
 
-## Video Walkthrough 
-
-Here's a walkthrough of typical game usage:
-
-<img src='# BreakoutGame
-A simple brick crashing game :)
-
-BreakoutGame is an android app that mimmics the old Brick Game.
-
-Submitted by: Hammed Opejin
-
-Time spent: 25 hours spent in total
-
-## User Stories:
-I spent some time trying to figure out how to use intent to make flash screen for app start-up.
-
-The following required functionality is completed:
-
-[1] User can play game and view score updates in real time
-[2] Sounds file are utilized and played when ball its objects.
-
-The following **additional** features are implemented:
-
-[1] I made a splash screen for app cold start view.
 
 ## Video Walkthrough 
 
-Here's a walkthrough of typical game usage:
-
-<img src='https://github.com/hammedopejin/BreakoutGame/blob/master/Breakout%20Game%20demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/hammedopejin/StrangerwalkinginLA/blob/master/Stranger%20walks%20in%20the%20street%20of%20LA.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
